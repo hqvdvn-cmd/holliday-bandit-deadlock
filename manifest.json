@@ -1,0 +1,34 @@
+{
+    "name":  "Holliday Bandit",
+    "hero":  "astro",
+    "version":  "1.0",
+    "gamebanana":  "https://gamebanana.com/mods/745535",
+    "showcase_video":  "https://youtu.be/fDxjrjtdX7M",
+    "repository":  "https://github.com/hqvdvn-cmd/holliday-bandit-deadlock",
+    "variants":  [
+                     {
+                         "id":  "with_barrel",
+                         "label":  "With Skull Barrel on Back",
+                         "zip":  "holliday-bandit-v1.0-with-barrel.zip",
+                         "zip_bytes":  49012570,
+                         "zip_sha256":  "C869D89E084341F0628C25C760BE3117927D31BB084017490F3D04D14B681F2D",
+                         "vpk_inside":  "pak90_dir.vpk",
+                         "vpk_sha256":  "A5101752FA88B7CD7E53053CBB0F88F25C1A3F5CE3710FB146A73CB7CCE65D3B",
+                         "entries":  187,
+                         "ui_entries":  13,
+                         "particle_entries":  153
+                     },
+                     {
+                         "id":  "no_barrel",
+                         "label":  "No Back Barrel (Thrown Skull Barrel Kept)",
+                         "zip":  "holliday-bandit-v1.0-no-barrel.zip",
+                         "zip_bytes":  49012594,
+                         "zip_sha256":  "4DEA230629DAE945ED7BE7C166022F9548DD333767C0397CA721A31A4218CC75",
+                         "vpk_inside":  "pak90_dir.vpk",
+                         "vpk_sha256":  "36BF923A5C57A79112D997E47561EBED3B44074611F15A404E4D8B2399219529",
+                         "entries":  187,
+                         "ui_entries":  13,
+                         "particle_entries":  153
+                     }
+                 ]
+}
